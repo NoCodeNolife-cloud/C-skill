@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\conversion_of_number_systems.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\conversion_of_number_systems.dir/objects.a @CMakeFiles\conversion_of_number_systems.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\conversion_of_number_systems.dir/objects.a -Wl,--no-whole-archive -o conversion_of_number_systems.exe -Wl,--out-implib,libconversion_of_number_systems.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\conversion_of_number_systems.dir\linklibs.rsp

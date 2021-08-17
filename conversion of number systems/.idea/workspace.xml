@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="float_and_double" targetName="float_and_double" />
+      <config projectName="conversion_of_number_systems" targetName="conversion_of_number_systems" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583bc9bc-d11f-4366-87f2-073d4d990cbf" name="默认变更列表" comment="" />
+    <list default="true" id="da38cb47-a751-4e8d-87be-7dffbf1f3dc7" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1wlkYEhWHp1VcWuwLlciG3BlWTw" />
+  <component name="ProjectId" id="1woa6VaPbjq3uOUsRYNjldKoYaC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +42,7 @@
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="float_and_double" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="float_and_double" TARGET_NAME="float_and_double" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="float_and_double" RUN_TARGET_NAME="float_and_double">
+    <configuration name="conversion_of_number_systems" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="conversion_of_number_systems" TARGET_NAME="conversion_of_number_systems" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="conversion_of_number_systems" RUN_TARGET_NAME="conversion_of_number_systems">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -56,12 +56,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="583bc9bc-d11f-4366-87f2-073d4d990cbf" name="默认变更列表" comment="" />
-      <created>1629040608753</created>
+      <changelist id="da38cb47-a751-4e8d-87be-7dffbf1f3dc7" name="默认变更列表" comment="" />
+      <created>1629127220156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1629040608753</updated>
-      <workItem from="1629040610558" duration="403000" />
+      <updated>1629127220156</updated>
+      <workItem from="1629127221884" duration="56000" />
+      <workItem from="1629127360670" duration="292000" />
     </task>
     <servers />
   </component>

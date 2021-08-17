@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/C-skill/getpid and getppid/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/C-skill/getpid and getppid/cmake-build-debug/CMakeFiles/getpid_and_getppid.dir
+E:/programe/GitHub project warehouse manager/C-skill/getpid and getppid/cmake-build-debug/CMakeFiles/rebuild_cache.dir

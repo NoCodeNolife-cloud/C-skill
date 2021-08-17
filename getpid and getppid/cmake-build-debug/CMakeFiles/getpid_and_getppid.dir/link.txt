@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\getpid_and_getppid.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\getpid_and_getppid.dir/objects.a @CMakeFiles\getpid_and_getppid.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\getpid_and_getppid.dir/objects.a -Wl,--no-whole-archive -o getpid_and_getppid.exe -Wl,--out-implib,libgetpid_and_getppid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\getpid_and_getppid.dir\linklibs.rsp
