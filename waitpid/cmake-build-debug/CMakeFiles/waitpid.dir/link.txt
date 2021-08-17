@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\waitpid.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\waitpid.dir/objects.a @CMakeFiles\waitpid.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\waitpid.dir/objects.a -Wl,--no-whole-archive -o waitpid.exe -Wl,--out-implib,libwaitpid.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\waitpid.dir\linklibs.rsp
