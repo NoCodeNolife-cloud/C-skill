@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\printf_format.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\printf_format.dir/objects.a @CMakeFiles\printf_format.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\printf_format.dir/objects.a -Wl,--no-whole-archive -o printf_format.exe -Wl,--out-implib,libprintf_format.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\printf_format.dir\linklibs.rsp
