@@ -1,0 +1,3 @@
+/home/cai/Desktop/Program/fork and execve for shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cai/Desktop/Program/fork and execve for shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cai/Desktop/Program/fork and execve for shell/cmake-build-debug/CMakeFiles/fork_and_execve_for_shell.dir

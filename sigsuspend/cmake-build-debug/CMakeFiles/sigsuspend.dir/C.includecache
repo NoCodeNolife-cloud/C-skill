@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/Desktop/Program/sigsuspend/main.c
+stdio.h
+-
+bits/types/sig_atomic_t.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+errno.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\selectsort.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\selectsort.dir/objects.a @CMakeFiles\selectsort.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\selectsort.dir/objects.a -Wl,--no-whole-archive -o selectsort.exe -Wl,--out-implib,libselectsort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\selectsort.dir\linklibs.rsp

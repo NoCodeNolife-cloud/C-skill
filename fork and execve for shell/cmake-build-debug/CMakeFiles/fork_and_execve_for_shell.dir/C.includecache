@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/Desktop/Program/fork and execve for shell/main.c
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdio.h
+-
+
