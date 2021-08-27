@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/getpgrp.dir/main.c.o -o getpgrp 

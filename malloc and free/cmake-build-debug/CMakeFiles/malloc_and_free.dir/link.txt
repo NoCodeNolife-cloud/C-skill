@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/malloc_and_free.dir/main.c.o -o malloc_and_free 

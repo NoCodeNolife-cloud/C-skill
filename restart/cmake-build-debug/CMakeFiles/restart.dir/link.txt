@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/restart.dir/main.c.o -o restart 

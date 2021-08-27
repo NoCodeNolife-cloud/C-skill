@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/Desktop/Program/waitpid/main.c
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+errno.h
+-
+

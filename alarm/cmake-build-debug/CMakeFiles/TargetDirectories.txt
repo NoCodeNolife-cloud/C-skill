@@ -1,0 +1,3 @@
+/home/cai/Desktop/Program/alarm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cai/Desktop/Program/alarm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cai/Desktop/Program/alarm/cmake-build-debug/CMakeFiles/alarm.dir
