@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/mmap_and_munmap.dir/main.c.o -o mmap_and_munmap 
