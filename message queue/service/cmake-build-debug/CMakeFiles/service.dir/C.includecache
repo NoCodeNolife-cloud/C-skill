@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/sdb1/new/message queue/service/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/msg.h
+-
+sys/ipc.h
+-
+
