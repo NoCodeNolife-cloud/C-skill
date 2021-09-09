@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/sdb1/new/signal SIGSTOP SIGKILL/main.c
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+stdlib.h
+-
+

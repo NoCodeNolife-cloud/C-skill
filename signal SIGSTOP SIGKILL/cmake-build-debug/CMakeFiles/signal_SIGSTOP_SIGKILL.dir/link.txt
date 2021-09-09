@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/signal_SIGSTOP_SIGKILL.dir/main.c.o -o signal_SIGSTOP_SIGKILL 

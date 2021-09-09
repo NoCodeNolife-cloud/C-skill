@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/communication_in_shared_memory.dir/main.c.o -o communication_in_shared_memory 

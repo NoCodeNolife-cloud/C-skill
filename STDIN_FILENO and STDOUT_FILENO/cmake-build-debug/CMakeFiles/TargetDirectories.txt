@@ -1,0 +1,3 @@
+/home/cai/sdb1/new/STDIN_FILENO and STDOUT_FILENO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cai/sdb1/new/STDIN_FILENO and STDOUT_FILENO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cai/sdb1/new/STDIN_FILENO and STDOUT_FILENO/cmake-build-debug/CMakeFiles/STDIN_FILENO_and_STDOUT_FILENO.dir

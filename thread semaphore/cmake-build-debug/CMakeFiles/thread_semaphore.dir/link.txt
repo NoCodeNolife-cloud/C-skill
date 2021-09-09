@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g CMakeFiles/thread_semaphore.dir/main.cpp.o -o thread_semaphore 

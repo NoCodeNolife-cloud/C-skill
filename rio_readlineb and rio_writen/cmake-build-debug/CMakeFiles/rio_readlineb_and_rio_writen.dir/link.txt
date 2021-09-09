@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rio_readlineb_and_rio_writen.dir/main.c.o -o rio_readlineb_and_rio_writen 

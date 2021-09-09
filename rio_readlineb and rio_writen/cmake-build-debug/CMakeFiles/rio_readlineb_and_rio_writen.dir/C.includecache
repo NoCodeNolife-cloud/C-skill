@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/sdb1/new/rio_readlineb and rio_writen/main.c
+unistd.h
+-
+asm-generic/errno-base.h
+-
+errno.h
+-
+string.h
+-
+csapp.h
+-
+

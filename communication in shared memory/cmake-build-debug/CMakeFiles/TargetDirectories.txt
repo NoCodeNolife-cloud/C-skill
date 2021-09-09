@@ -1,0 +1,3 @@
+/home/cai/sdb1/new/communication in shared memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cai/sdb1/new/communication in shared memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cai/sdb1/new/communication in shared memory/cmake-build-debug/CMakeFiles/communication_in_shared_memory.dir

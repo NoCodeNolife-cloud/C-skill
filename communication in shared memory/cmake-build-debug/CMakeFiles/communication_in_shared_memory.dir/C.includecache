@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cai/sdb1/new/communication in shared memory/main.c
+stdio.h
+-
+sys/shm.h
+-
+sys/ipc.h
+-
+sys/types.h
+-
+sys/sem.h
+-
+string.h
+-
+unistd.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/STDIN_FILENO_and_STDOUT_FILENO.dir/main.c.o -o STDIN_FILENO_and_STDOUT_FILENO 
