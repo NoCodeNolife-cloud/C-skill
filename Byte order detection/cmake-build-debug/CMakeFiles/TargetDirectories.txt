@@ -1,0 +1,3 @@
+/home/jax/taskfiles/program/Byte order detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/program/Byte order detection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/program/Byte order detection/cmake-build-debug/CMakeFiles/Byte_order_detection.dir
