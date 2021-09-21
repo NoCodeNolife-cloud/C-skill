@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/Data IO use recv and send/service/main.cpp
+stdio.h
+-
+stdlib.h
+-
+strings.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+unistd.h
+-
+netinet/in.h
+-
+signal.h
+-
+cstring
+-
+

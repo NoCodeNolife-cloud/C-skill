@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/gethostbyname.dir/main.cpp.o -o gethostbyname 
