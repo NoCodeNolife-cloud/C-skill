@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/Data IO use recvmsg and sendmsg/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/Data IO use recvmsg and sendmsg/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/Data IO use recvmsg and sendmsg/client/cmake-build-debug/CMakeFiles/client.dir
