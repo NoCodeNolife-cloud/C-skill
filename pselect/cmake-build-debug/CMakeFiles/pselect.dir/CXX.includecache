@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/pselect/main.cpp
+unistd.h
+-
+sys/time.h
+-
+sys/types.h
+-
+signal.h
+-
+stdio.h
+-
+

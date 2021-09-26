@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/UDP service and client/client/main.cpp
+sys/types.h
+-
+stdio.h
+-
+unistd.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+string.h
+-
+
