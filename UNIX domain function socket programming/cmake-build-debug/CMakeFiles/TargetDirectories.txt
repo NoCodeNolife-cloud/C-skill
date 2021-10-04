@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/UNIX domain function socket programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/UNIX domain function socket programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/UNIX domain function socket programming/cmake-build-debug/CMakeFiles/UNIX_domain_function_socket_programming.dir

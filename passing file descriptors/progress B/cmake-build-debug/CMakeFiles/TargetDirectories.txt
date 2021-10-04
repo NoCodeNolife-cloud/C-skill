@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/passing file descriptors/progress B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/passing file descriptors/progress B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/passing file descriptors/progress B/cmake-build-debug/CMakeFiles/progress_B.dir

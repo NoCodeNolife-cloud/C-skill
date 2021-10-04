@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/UNIX_domain_function_socket_programming.dir/main.cpp.o -o UNIX_domain_function_socket_programming 
