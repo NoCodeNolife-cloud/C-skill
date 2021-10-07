@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/SOCK_PACKET ARP/main.cpp
+sys/socket.h
+-
+sys/ioctl.h
+-
+netinet/if_ether.h
+-
+net/if.h
+-
+unistd.h
+-
+string.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+netinet/ip.h
+-
+netinet/tcp.h
+-
+netinet/udp.h
+-
+

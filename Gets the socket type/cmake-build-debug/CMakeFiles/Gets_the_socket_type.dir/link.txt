@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Gets_the_socket_type.dir/main.cpp.o -o Gets_the_socket_type 
