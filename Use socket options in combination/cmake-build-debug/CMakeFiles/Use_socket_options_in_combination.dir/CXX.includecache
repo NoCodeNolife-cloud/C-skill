@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/Use socket options in combination/main.cpp
+stdio.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+error.h
+-
+string.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+netinet/tcp.h
+-
+sys/wait.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+

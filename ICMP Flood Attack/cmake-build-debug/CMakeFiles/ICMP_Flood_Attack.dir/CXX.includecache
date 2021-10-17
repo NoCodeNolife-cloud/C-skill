@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/ICMP Flood Attack/main.cpp
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+unistd.h
+-
+fcntl.h
+-
+signal.h
+-
+sys/time.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/ip.h
+-
+netinet/ip_icmp.h
+-
+netdb.h
+-
+errno.h
+-
+stdlib.h
+-
+time.h
+-
+arpa/inet.h
+-
+pthread.h
+-
+

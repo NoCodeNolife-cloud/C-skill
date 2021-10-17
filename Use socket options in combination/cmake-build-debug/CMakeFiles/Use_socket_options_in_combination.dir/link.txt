@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Use_socket_options_in_combination.dir/main.cpp.o -o Use_socket_options_in_combination 

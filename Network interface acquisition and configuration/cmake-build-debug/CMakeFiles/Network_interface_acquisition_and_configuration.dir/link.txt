@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Network_interface_acquisition_and_configuration.dir/main.cpp.o -o Network_interface_acquisition_and_configuration 

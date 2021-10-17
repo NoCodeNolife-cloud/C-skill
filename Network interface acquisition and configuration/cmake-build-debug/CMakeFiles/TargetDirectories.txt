@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/Network interface acquisition and configuration/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/Network interface acquisition and configuration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/Network interface acquisition and configuration/cmake-build-debug/CMakeFiles/Network_interface_acquisition_and_configuration.dir

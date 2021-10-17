@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/SYN flood attack/main.cpp
+stdio.h
+-
+ctype.h
+-
+unistd.h
+-
+fcntl.h
+-
+signal.h
+-
+sys/time.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+string.h
+-
+netdb.h
+-
+errno.h
+-
+stdlib.h
+-
+time.h
+-
+arpa/inet.h
+-
+fstream
+-
+

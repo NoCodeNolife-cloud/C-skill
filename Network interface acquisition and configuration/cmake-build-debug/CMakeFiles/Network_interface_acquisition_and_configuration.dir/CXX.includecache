@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/Network interface acquisition and configuration/main.cpp
+stdio.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+net/if_arp.h
+-
+string.h
+-
+linux/sockios.h
+-
+net/if.h
+-
+sys/ioctl.h
+-
+stdlib.h
+-
+unistd.h
+-
+

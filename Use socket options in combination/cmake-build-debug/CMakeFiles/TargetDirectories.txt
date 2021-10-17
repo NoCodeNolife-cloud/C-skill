@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/Use socket options in combination/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/Use socket options in combination/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/Use socket options in combination/cmake-build-debug/CMakeFiles/Use_socket_options_in_combination.dir

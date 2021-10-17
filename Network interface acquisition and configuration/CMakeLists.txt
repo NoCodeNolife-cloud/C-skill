@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Network_interface_acquisition_and_configuration)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Network_interface_acquisition_and_configuration main.cpp)
