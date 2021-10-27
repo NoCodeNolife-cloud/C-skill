@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/TCP Network communication IPv6/client/main.cpp
+stdio.h
+-
+string.h
+-
+errno.h
+-
+sys/socket.h
+-
+resolv.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+

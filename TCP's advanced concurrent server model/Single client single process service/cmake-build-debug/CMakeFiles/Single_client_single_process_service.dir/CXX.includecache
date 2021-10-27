@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/TCP's advanced concurrent server model/Single client single process service/main.cpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+time.h
+-
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/I0 reuse cycle server model/service/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/I0 reuse cycle server model/service/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/I0 reuse cycle server model/service/cmake-build-debug/CMakeFiles/service.dir

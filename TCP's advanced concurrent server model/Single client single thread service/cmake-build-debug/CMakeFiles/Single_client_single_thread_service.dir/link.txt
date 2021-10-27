@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g CMakeFiles/Single_client_single_thread_service.dir/main.cpp.o -o Single_client_single_thread_service 

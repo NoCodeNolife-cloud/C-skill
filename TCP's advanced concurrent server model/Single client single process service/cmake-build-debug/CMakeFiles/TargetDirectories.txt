@@ -1,0 +1,3 @@
+/home/jax/taskfiles/new program/TCP's advanced concurrent server model/Single client single process service/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jax/taskfiles/new program/TCP's advanced concurrent server model/Single client single process service/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jax/taskfiles/new program/TCP's advanced concurrent server model/Single client single process service/cmake-build-debug/CMakeFiles/Single_client_single_process_service.dir
