@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jax/taskfiles/new program/echo/echo client/main.cpp
+stdio.h
+-
+errno.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+sys/select.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+
