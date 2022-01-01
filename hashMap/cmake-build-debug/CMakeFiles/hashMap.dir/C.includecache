@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/programe/GitHub-project-warehouse-manager/C-skill/hashMap/hashmap.h
+
+H:/programe/GitHub-project-warehouse-manager/C-skill/hashMap/main.c
+stdlib.h
+-
+crtdbg.h
+-
+assert.h
+-
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+crtdbg.h
+-
+math.h
+-
+limits.h
+-
+hashmap.h
+H:/programe/GitHub-project-warehouse-manager/C-skill/hashMap/hashmap.h
+

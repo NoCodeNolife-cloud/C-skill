@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\hashMap.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\hashMap.dir/objects.a @CMakeFiles\hashMap.dir\objects1.rsp
+D:\MinGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\hashMap.dir/objects.a -Wl,--no-whole-archive -o hashMap.exe -Wl,--out-implib,libhashMap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hashMap.dir\linklibs.rsp
